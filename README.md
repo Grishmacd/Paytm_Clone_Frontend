@@ -50,8 +50,11 @@ Paytm-Clone/
    git clone https://github.com/your-username/paytm-clone.git
    
 2.Open the folder
+
 3.Run it:
+
   Double-click index.html, or
+  
   Open index.html in any browser
 
   
