@@ -37,11 +37,10 @@ This is a UI clone made to practice HTML structure and CSS layout skills.
 
 ## Project Structure
 Paytm-Clone/
-│
-├── index.html # Main HTML file
-├── style.css # Styling file
-├── images/ # Images used in the project
-└── README.md # Project documentation
+1.  index.html # Main HTML file
+2.  style.css # Styling file
+3.  images/ # Images used in the project
+4.  README.md # Project documentation
 
 
 ## How to Run Locally
