@@ -43,18 +43,6 @@ Paytm-Clone/
 4.  README.md # Project documentation
 
 
-## How to Run Locally
-
-### Option 1: Open Directly
-1. Download or clone this repository
-2. Open `index.html` in your browser
-
-### Option 2: VS Code Live Server (Recommended)
-1. Open the project folder in VS Code
-2. Install the **Live Server** extension
-3. Right-click `index.html` → **Open with Live Server**
-
-
 ##  Learning Outcomes
 - Practiced complex page layout using sections and containers
 - Improved CSS skills: Flexbox, spacing, border-radius, shadows
